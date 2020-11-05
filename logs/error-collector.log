@@ -1,0 +1,2 @@
+[2020-10-30T14:06:44.621+08:00] [WARN] [http-nio-8001-exec-1-28] [cn.sunwei1991.collector.web.IndexController] [sunweideMacBook-Pro.local] [192.168.5.180] [collector] [IndexController.java,22,cn.sunwei1991.collector.web.IndexController,index] [warn日志] ## ''
+[2020-10-30T14:06:44.621+08:00] [ERROR] [http-nio-8001-exec-1-28] [cn.sunwei1991.collector.web.IndexController] [sunweideMacBook-Pro.local] [192.168.5.180] [collector] [IndexController.java,23,cn.sunwei1991.collector.web.IndexController,index] [error日志] ## ''
